@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+target/
+*.tmp
+*.bak
+*.swp
+*.log
+local.properties
+*.class
+*.jar
+*.war
+*.ear
